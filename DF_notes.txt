@@ -47,10 +47,6 @@ TODO:
 *Specify the tokens elemental for playing Adventure Mode.
 
 inorganic_stone_layer.txt is required for Fortress mode.
-The ability to dig is provided by inorganic_metal.
-	inorganic_other - false
-	inorganic_stone_gem - false
-	inorganic_stone_mineral - false
-	inorganic_stone_soil - false
+The ability to dig is provided by inorganic_metal. I don't know why.
 
 
