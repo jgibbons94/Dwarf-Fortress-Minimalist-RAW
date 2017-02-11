@@ -36,15 +36,7 @@ Additionally, the following files in the raw/objects/text/ folder are required t
 *book_instruction.txt
 *book_art.txt
 
-Note that these files are required, but their contents seem meaningless; they can be empty and the 
-TODO:
-*Distinguish raw object files necessary for world generation from those necessary for the Object Testing Arena
-*Distinguish raw object files necessary for playing fortress mode from those necessary for the object testing arena or world generation.
-*Distinguish for the object playing adventure mode from others.
-*Specify the tokens elemental to using the Object Testing Arena without it crashing.
-*Specify the tokens elemental for world generation
-*Specify the tokens elemental for playing Fortress Mode
-*Specify the tokens elemental for playing Adventure Mode.
+Note that these files are required, but their contents seem meaningless; the game will crash if they are not found or if they are empty.
 
 inorganic_stone_layer.txt is required for Fortress mode.
 The ability to dig is provided by inorganic_metal. I don't know why.
